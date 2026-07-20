@@ -1,27 +1,139 @@
-<h1 align="center">Olá, eu sou a Virgínia Mondego</h1>
-<h3 align="center">Graduanda em Engenharia da Computação | Bacharela em Ciência e Tecnologia | Desenvolvedora IA & RPA</h3>
+<h1 align="center">Olá! Eu sou a Virgínia Mondego 👋</h1>
 
-- Trabalho com **automação de processos judiciais (RPA) e desenvolvimento de sistemas web**
+<h3 align="center">
+Bacharela em Ciência e Tecnologia • Graduanda em Engenharia da Computação (UFMA)
+</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h4 align="center">
+Desenvolvedora Back-end | Inteligência Artificial | Automação (RPA) | Engenharia de Software
+</h4>
+
+---
+
+## Sobre mim
+
+Sou bacharela em Ciência e Tecnologia e graduanda em Engenharia da Computação pela Universidade Federal do Maranhão (UFMA).
+
+Atualmente atuo no desenvolvimento de soluções de automação de processos judiciais e administrativos, utilizando Python, Inteligência Artificial e RPA para otimizar fluxos de trabalho.
+
+Tenho interesse em desenvolvimento back-end, arquitetura de software, Inteligência Artificial Generativa, agentes inteligentes e automação de processos.
+
+---
+
+## 🚀 Atualmente
+
+- 💼 Estagiária de Desenvolvimento de Software
+- 🤖 Desenvolvendo soluções utilizando IA Generativa
+- ⚙️ Criando RPAs com Playwright e Selenium
+- 🧠 Aplicando Arquitetura de Software, IA e Cloud na prática
+- 🌱 Aprimorando conhecimentos em Docker e DevOps
+
+---
+
+## 💡 Áreas de Interesse
+
+- Inteligência Artificial
+- IA Generativa
+- Automação de Processos (RPA)
+- Desenvolvimento Back-end
+- Engenharia de Software
+- APIs REST
+- Arquitetura de Software
+- Machine Learning
+
+---
+
+## 🛠️ Tecnologias
+
+### Linguagens
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+### Frameworks e Bibliotecas
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="45"/>
+</p>
+
+Também utilizo:
+
+- Playwright
+- LangChain
+- Google Gemini API
+- Google Sheets API
+- REST APIs
+
+---
+
+## 🗄️ Banco de Dados
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/>
+</p>
+
+---
+
+## 🧰 Ferramentas
+
+<p>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
+</p>
+
+---
+
+## Projetos em Destaque
+
+🤖 **Automação de Processos Judiciais (PJe)**
+
+- Python
+- Playwright
+- Selenium
+- Google Sheets API
+- Web Scraping
+- Automação de Fluxos
+
+✈️ **Assistente Virtual Inteligente para Turismo**
+
+- LangChain
+- Gemini API
+- Amadeus API
+- Python
+
+📝 **Sistema de Inscrições**
+
+- Django
+- PostgreSQL
+- HTML
+- CSS
+- JavaScript
+
+📚 **Biblioteca Inteligente de Prompts**
+
+- Django
+- Docker
+- PostgreSQL
+
+---
+
+## Contato
+
+📧 **virginiamariamf@gmail.com**
+
+💼 LinkedIn: *www.linkedin.com/in/virgínia-mondêgo-66b29b278*
 
 
-<!--
-**VirginiaMond/VirginiaMond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Sempre buscando aprender, desenvolver soluções inteligentes e utilizar tecnologia para resolver problemas reais.⭐ 
